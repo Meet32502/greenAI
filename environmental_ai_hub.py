@@ -1,3 +1,5 @@
+import os
+os.environ["TRANSFORMERS_NO_TF"] = "1"
 import streamlit as st
 import torch
 from transformers import (
