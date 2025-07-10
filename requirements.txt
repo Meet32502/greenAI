@@ -6,3 +6,5 @@ tensorflow
 Pillow
 networkx
 torch
+transformers
+diffusers
